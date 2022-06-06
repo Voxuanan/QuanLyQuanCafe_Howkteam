@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\DELL\Desktop\New folder\Winform\Project quản lý bán hàng\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
